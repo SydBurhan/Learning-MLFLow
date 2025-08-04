@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3a6632fbf8f1455fa143155bef56767a/artifacts
+end_time: 1754290848422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a6632fbf8f1455fa143155bef56767a
+run_name: resilient-wolf-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754290847743
+status: 3
+tags: []
+user_id: Syed Burhan Ahmad

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/499278347325287653/e111dc3f905643259372c5aecc3411c6/artifacts
+end_time: 1754292017879
+entry_point_name: ''
+experiment_id: '499278347325287653'
+lifecycle_stage: active
+run_id: e111dc3f905643259372c5aecc3411c6
+run_name: bright-horse-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754292005126
+status: 3
+tags: []
+user_id: Syed Burhan Ahmad

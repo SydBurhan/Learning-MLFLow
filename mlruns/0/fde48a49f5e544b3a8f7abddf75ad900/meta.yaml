@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fde48a49f5e544b3a8f7abddf75ad900/artifacts
+end_time: 1754290251781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde48a49f5e544b3a8f7abddf75ad900
+run_name: auspicious-rat-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754290251687
+status: 3
+tags: []
+user_id: Syed Burhan Ahmad

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/329091635419926010/06b767e210ec4c55b4c4662b4969fd80/artifacts
+end_time: 1754291190715
+entry_point_name: ''
+experiment_id: '329091635419926010'
+lifecycle_stage: active
+run_id: 06b767e210ec4c55b4c4662b4969fd80
+run_name: rogue-stork-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754291190112
+status: 3
+tags: []
+user_id: Syed Burhan Ahmad
